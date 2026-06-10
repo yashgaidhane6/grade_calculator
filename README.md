@@ -27,8 +27,8 @@ grade-calculator/
 ├── app.py
 ├
 │   
-├── static/
-│   ├── style.css
+├
+│   
 │   
 ├
 └── README.md
