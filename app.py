@@ -137,4 +137,3 @@ if st.button("🚀 Calculate Grade"):
         <h3>{rank}</h3>
     </div>
     """, unsafe_allow_html=True)
-    """, unsafe_allow_html=True)
