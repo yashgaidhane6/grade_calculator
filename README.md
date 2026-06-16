@@ -81,7 +81,9 @@ http://127.0.0.1:5000
 
 ## 📸 Screenshot
 
-<img width="932" height="896" alt="image" src="https://github.com/user-attachments/assets/60d7cb4f-9c5b-45a9-8b5e-3180c747b554" />
+<img width="1079" height="953" alt="image" src="https://github.com/user-attachments/assets/b22ce1bd-128c-4eb1-aa7f-6a63cd7a3247" />
+
+
 
 
 ## 🎯 Purpose of the Project
